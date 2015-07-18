@@ -12,3 +12,11 @@ Use the below format, when reporting bugs (these are examples):
 <li>[PL][Quest] A Fowl Shortage</li>
 <li>[ENG][Core] Autobroadcaster not working</li>
 </ul>
+
+<ul>
+<h4>
+<li><a href="http://jargam.es">www.jargam.es</a></li>
+<li><a href="http://forum.jargam.es">forum.jargam.es</a></li>
+<li>staff@jargam.es</li>
+</h4>
+</ul>
